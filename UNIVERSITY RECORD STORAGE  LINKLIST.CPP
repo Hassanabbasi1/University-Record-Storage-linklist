@@ -1,9 +1,9 @@
 /*_________________________________________________________
 		PROJECT OF UNIVERSITY RECORD STORAGE      		   
 
-//Usman Khan Ghauri(10-arid-129) 
-//BSCS-3-B
-//bscs-notes.blogspot.com                                  
+//Hassan Irshad Abbasi(10-arid-129) 
+//BSIT
+//BSIT QAU 4th                               
 
 ___________________________________________________________*/
 
